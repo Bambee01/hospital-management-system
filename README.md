@@ -4,7 +4,7 @@ This script sets up a comprehensive hospital management system with tables and r
 
 ---
 
-![photo_2024-10-30_16-39-56.jpg](./assets/https://prod-files-secure.s3.us-west-2.amazonaws.com/19bec02c-7232-4876-8dcb-3cc5def4cf03/bbe22e31-7656-4776-a9e4-26ba0b611a11/photo_2024-10-30_16-39-56.jpg)
+![photo_2024-10-30_16-39-56.jpg](./assets/photo_2024-10-30_16-39-56.jpg)
 
 ### 1. **Physician Table**
 
